@@ -1,4 +1,12 @@
-ArrayHelper 0.1.1
+## ArrayHelper 0.1.1
+
+##### Установка
+
+```
+composer require u89man/array-helper
+```
+
+##### Примеры
 
 ```php
 use U89Man\Helpers\ArrayHelper; 
