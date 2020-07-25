@@ -1,4 +1,4 @@
-## ArrayHelper 0.1.1
+## ArrayHelper 0.1.2
 
 ##### Установка
 
