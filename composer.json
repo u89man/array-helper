@@ -1,0 +1,17 @@
+{
+  "name": "u89man/array-helper",
+  "version": "0.1.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "u89man",
+      "email": "u89man@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "U89Man\\Helpers\\": "src"
+    }
+  }
+}
+
